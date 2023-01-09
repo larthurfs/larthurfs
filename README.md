@@ -1,8 +1,5 @@
 ### Hi there I'm Luiz Arthur👋
 
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning JavaScript  
-- 👯 I’m looking to collaborate on Deploy Data Science models
 
 <div align="center">
   <a href="https://github.com/larthurfs">
@@ -20,3 +17,5 @@ ________________________________________________________________________________
 <div> 
   <a href="https://www.linkedin.com/in/luiz-arthur-fernandes-01a158a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  
